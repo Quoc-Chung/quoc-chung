@@ -11,19 +11,7 @@
 
 ## 👨‍💻 About Me
 
-```java
-public class QuocChung {
-    private final String role = "Backend Software Engineer";
-    private final String[] coreStack = {"Java", "Spring Boot", "MySQL", "Docker"};
-    private final String passion = "Building scalable, high-performance systems";
 
-    public void keepGrowing() {
-        learnContinuously();
-        writeCleanCode();
-        buildQualitySoftware();
-    }
-}
-```
 
 I am a **Software Engineer** with hands-on experience building backend and enterprise applications. I enjoy turning complex requirements into reliable, maintainable systems using **Java**, **Spring Boot**, RESTful APIs, databases, messaging, caching, search, and modern frontend technologies.
 
@@ -99,29 +87,13 @@ I am a **Software Engineer** with hands-on experience building backend and enter
 
 <div align="center">
 
-| Backend Engineering | Architecture | Performance & Reliability |
+| Backend Engineering | Architecture | Infrastructure |
 |:---:|:---:|:---:|
-| RESTful APIs | Microservices | Redis Caching |
-| Spring Security | Event-Driven Architecture | Elasticsearch |
-| JWT & OAuth2 | CQRS & Event Sourcing | Async Processing |
-| WebSocket & WebFlux | Distributed Systems | Data Synchronization |
+| Java & Spring Boot | Microservices | Docker |
+| RESTful APIs | Event-Driven Architecture | Kubernetes |
+| Spring Security | Clean Architecture | Redis |
+| JWT & OAuth2 | Domain-Driven Design | Apache Kafka |
+| Spring WebFlux | CQRS | Elasticsearch |
+| WebSocket | Distributed Systems | MySQL · PostgreSQL |
 
 </div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Quoc-Chung&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9&rank_icon=github" alt="Quoc Chung's GitHub stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Quoc-Chung&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="Quoc Chung's GitHub streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quoc-Chung&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Quoc Chung's most used languages" />
-
-</div>
-
-> [!NOTE]
-> The language chart reflects public repository statistics and does not represent my complete skill level or professional experience.
-
-## 🤝 Connect With Me
-
-<div align="center">
