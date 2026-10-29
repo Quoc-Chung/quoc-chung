@@ -1,1 +1,3 @@
-spring.application.name=study_git_reverse
+spring:
+  application:
+    name: study_git_reverse
