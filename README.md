@@ -69,6 +69,7 @@ I am a **Full Stack Developer** with hands-on experience building backend and en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="54" height="54" alt="Linux" title="Linux" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="54" height="54" alt="Nginx" title="Nginx" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" width="54" height="54" alt="Vercel" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" width="54" height="54" alt="Jenkins" title="Jenkins" />&nbsp;&nbsp;
 </p>
 
 ### 🛠️ Tools
@@ -81,6 +82,7 @@ I am a **Full Stack Developer** with hands-on experience building backend and en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="54" height="54" alt="IntelliJ IDEA" title="IntelliJ IDEA" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="54" height="54" alt="VS Code" title="Visual Studio Code" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" width="54" height="54" alt="Jira" title="Jira" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sourcetree/sourcetree-original.svg" width="54" height="54" alt="Sourcetree" title="Sourcetree" />&nbsp;&nbsp;
 </p>
 
 ## 🧠 Engineering Focus
