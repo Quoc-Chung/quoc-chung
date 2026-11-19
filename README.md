@@ -13,7 +13,7 @@
 
 
 
-I am a **Software Engineer** with hands-on experience building backend and enterprise applications. I enjoy turning complex requirements into reliable, maintainable systems using **Java**, **Spring Boot**, RESTful APIs, databases, messaging, caching, search, and modern frontend technologies.
+I am a **Full Stack Developer** with hands-on experience building backend and enterprise applications. I enjoy turning complex requirements into reliable, maintainable systems using **Java**, **Spring Boot**, RESTful APIs, databases, messaging, caching, search, and modern frontend technologies.
 
 - 🔭 Building scalable and maintainable backend services
 - 🔐 Working with authentication and authorization using Spring Security, JWT, and OAuth2
