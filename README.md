@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Quoc%20Chung&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=28C7FA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;React+%7C+Angular+%7C+JavaScript+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+Microservices;Building+scalable+end-to-end+web+applications;Clean+code+%E2%80%A2+High+performance+%E2%80%A2+Continuous+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=28C7FA&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+%7C+Angular+%7C+JavaScript+%7C+TypeScript;Java+%7C+Spring+Boot+%7C+Microservices;Docker+%7C+GitHub+Actions+%7C+Jenkins;Building+scalable+end-to-end+web+applications;Clean+code+%E2%80%A2+High+performance+%E2%80%A2+Continuous+learning)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Quoc-Chung&label=PROFILE+VIEWS&color=0ea5e9&style=for-the-badge)](https://github.com/Quoc-Chung)
 [![GitHub followers](https://img.shields.io/github/followers/Quoc-Chung?label=FOLLOWERS&style=for-the-badge&logo=github&color=181717)](https://github.com/Quoc-Chung?tab=followers)
