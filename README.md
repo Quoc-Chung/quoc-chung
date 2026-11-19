@@ -58,8 +58,6 @@ I am a **Full Stack Developer** with hands-on experience building backend and en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="54" height="54" alt="PostgreSQL" title="PostgreSQL" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="54" height="54" alt="MongoDB" title="MongoDB" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="54" height="54" alt="Redis" title="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/hazelcast" width="54" height="54" alt="Hazelcast" title="Hazelcast" />&nbsp;&nbsp;
-  <img src="https://api.iconify.design/mdi:coffee.svg?color=%236F4E37" width="54" height="54" alt="Caffeine" title="Caffeine Cache" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" width="54" height="54" alt="Elasticsearch" title="Elasticsearch" />
 </p>
 
