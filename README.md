@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Quoc%20Chung&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Software%20Engineer&descSize=22&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Quoc%20Chung&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descSize=22&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=900&color=28C7FA&center=true&vCenter=true&width=700&lines=Java+%7C+Spring+Boot+%7C+Microservices;Building+scalable+backend+systems;Clean+code+%E2%80%A2+High+performance+%E2%80%A2+Continuous+learning)](https://git.io/typing-svg)
 
